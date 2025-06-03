@@ -51,6 +51,7 @@ Step 2: Install TypeScript as a Dev Dependency
 Step 3: Create a tsconfig.json file
 
 Run:
+
     npx tsc --init
 
 then update the config as needed:
